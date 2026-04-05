@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,state,region,address,zip_code,total_bins,active_flag
+WH001,Los Angeles Hub,Los Angeles,CA,West,798 Roy Squares Suite 985,92510,3000,True
+WH002,New York Hub,New York,NY,Northeast,74780 Harmon Rapids,94431,3000,True
+WH003,Orlando Hub,Orlando,FL,Southeast,57380 Joseph Stream,78505,3000,True
+WH004,Kansas City Hub,Kansas City,MO,Midwest,883 Boyd Tunnel,28988,3000,True
+WH005,Phoenix Hub,Phoenix,AZ,Southwest,589 Porter Shore,83399,3000,True
